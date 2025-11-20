@@ -1,0 +1,6 @@
+User: hi
+AI: Hello! How can I assist you today? 😊
+User: my name is Manoj
+AI: Hi Manoj! Nice to meet you. 😊 How can I assist you today?
+User: whats my name
+AI: Your name is Manoj! 😊 How can I help you today?
