@@ -1,0 +1,6 @@
+Heading: US consumer confidence steady in July
+
+Article: Washington: US consumer sentiment held steady in July, helped by soaring stocks and undeterred by global worries over Britain´s vote to leave the European Union, the Conference Board reported Tuesday.The Board´s monthly consumer confidence index stood at 97.3, down from 97.4 in June, with a rise in consumer views of the current situation in the economy.That was above the 91.0 level of one year ago, but still below last September´s 12-month high of 101.3.In July, there was a slight fall in views of the picture six months down the road, with more people expecting business conditions to slow somewhat.Fewer of the consumers surveyed said they planned to buy cars or homes or take vacations over the next six months, suggesting caution in the market."Consumers were slightly more positive about current business and labor market conditions, suggesting the economy will continue to expand at a moderate pace," said Lynn Franco, director of indicators at The Conference Board."Expectations regarding business and labor market conditions, as well as personal income prospects, declined slightly as consumers remain cautiously optimistic about growth in the near-term."
+
+Date: 7/26/2016
+NewsType: business

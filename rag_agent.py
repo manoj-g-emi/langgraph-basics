@@ -58,6 +58,7 @@ if not os.path.exists(vector_db_directory):
     
 try:
     vector_store = Chroma.from_documents(docs, embeddings, persist_directory=vector_db_directory, collection_name=collection_name)
+    print("Vector store created and persisted successfully.")
 except Exception as e:
     raise RuntimeError(f"Failed to create or save vector store: {e}")
 

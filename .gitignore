@@ -1,3 +1,4 @@
+faiss_index/*
 faiss_index/chroma.sqlite3
 faiss_index/index.faiss
 faiss_index/index.pkl
@@ -5,3 +6,8 @@ faiss_index/6844ed7c-c3a9-44c0-83e3-c783a2ca828c/data_level0.bin
 faiss_index/6844ed7c-c3a9-44c0-83e3-c783a2ca828c/header.bin
 faiss_index/6844ed7c-c3a9-44c0-83e3-c783a2ca828c/length.bin
 faiss_index/6844ed7c-c3a9-44c0-83e3-c783a2ca828c/link_lists.bin
+faiss_index/535a8211-6182-4472-b350-eb1f967b73d7/data_level0.bin
+faiss_index/535a8211-6182-4472-b350-eb1f967b73d7/header.bin
+faiss_index/535a8211-6182-4472-b350-eb1f967b73d7/index_metadata.pickle
+faiss_index/535a8211-6182-4472-b350-eb1f967b73d7/length.bin
+faiss_index/535a8211-6182-4472-b350-eb1f967b73d7/link_lists.bin

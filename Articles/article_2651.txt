@@ -1,0 +1,6 @@
+Heading: Alphabet accuses Uber of stealing self driving car technology
+
+Article: SAN FRANCISCO: Alphabet on Thursday filed a lawsuit accusing Uber and its self-driving vehicle unit Otto of stealing technology from Waymo, a subsidiary of the Google parent company."Otto and Uber have taken Waymo´s intellectual property so that they could avoid incurring the risk, time and expense of independently developing their own technology," Waymo said in a San Francisco federal court filing.The suit contends that a Waymo manager took technical data with him when he left to launch a competing venture that went on to become Otto.
+
+Date: 2/24/2017
+NewsType: business
